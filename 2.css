@@ -1,0 +1,49 @@
+td{
+    border: none;
+    width: 150px;
+    height: 60px;
+    text-align: center;
+    vertical-align: center;
+}
+
+table{
+    border: 45px solid #efefef;
+    border-collapse: collapse;
+    margin: 50px 50px 50px;
+    background: #efefef;
+    border-radius: 20px ;
+}
+
+#title{
+    background-color: #5ab2e3;
+    text-align: center;
+
+}
+
+#title td{
+    font-weight: 600;
+}
+
+
+.vert1{
+    background-color: #5ab2e3;
+}
+
+#title3{
+    background-color: #cecece;
+}
+
+#title5{
+    background-color: #cecece;
+}
+#title7{
+    background-color: #cecece;
+}
+
+#title9{
+    background-color: #cecece;
+}
+
+td:first-child{
+    background: #5ab2e3;
+}
